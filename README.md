@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there 👋, I am Sung-Fu Han!
+# 👋Hi there , I am Sung-Fu Han!
+
 Welcome to my page!
 
 I am currently a computer science master student at University of Southern California ✌️. 
