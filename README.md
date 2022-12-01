@@ -29,7 +29,7 @@ My passsion is to solve various technology problems and make life easier :grin:
 <img src="https://komarev.com/ghpvc/?username=wallinslax&color=blueviolet&style=flat">
 
 
-## Solving problem with
+## 🛠 Solving problem with
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -50,7 +50,7 @@ My passsion is to solve various technology problems and make life easier :grin:
 
 [icons]: (https://github.com/alexandresanlim/Badges4-README.md-Profile#readme)
 
-## GitHub Insight
+## ⚙️ GitHub Insight
 <a href="https://github.com/ChiaHaoChangTw?tab=repositories">
   <img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallinslax&theme=swift">
   &nbsp;&nbsp;&nbsp;
@@ -59,7 +59,7 @@ My passsion is to solve various technology problems and make life easier :grin:
 
 [GitHub stats]: (https://github.com/anuraghazra/github-readme-stats)
 
-## Feel free to contact me
+## :point_right: Feel free to contact me
 <a href=mailto:sfhan@usc.edu>
   <img height="35" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-1.png"/>
 </a>
