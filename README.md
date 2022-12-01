@@ -64,3 +64,5 @@ My passsion is to solve various technology problems and make life easier :grin:
 <a href="mailto:sfhan@usc.edu"><img src="https://img.shields.io/badge/-sfhan@usc.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sungfuhan"><img src="https://img.shields.io/badge/-Sung Fu Han-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://facebook.com/wallinslax"><img src="https://img.shields.io/badge/-Sung Fu Han-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+
+[My story to be a coder](https://www.linkedin.com/posts/sungfuhan_i-would-like-to-share-the-story-why-i-want-activity-6843957426618810368-wV0Q?utm_source=share&utm_medium=member_desktop)
