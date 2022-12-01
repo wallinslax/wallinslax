@@ -60,9 +60,7 @@ My passsion is to solve various technology problems and make life easier :grin:
 [GitHub stats]: (https://github.com/anuraghazra/github-readme-stats)
 
 ## :point_right: Feel free to contact me
-<a href=mailto:sfhan@usc.edu>
-  <img height="35" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-1.png"/>
-</a>
-<a href="https://www.linkedin.com/in/sungfuhan/">
-  <img height="35" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a>
+
+<a href="https://linkedin.com/in/sungfuhan"><img src="https://img.shields.io/badge/-wallinslax-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sfhan@usc.edu"><img src="https://img.shields.io/badge/-sfhan@usc.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://facebook.com/wallinslax"><img src="https://img.shields.io/badge/-@wallinslax-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
