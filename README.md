@@ -64,9 +64,9 @@ Project 1: [PanoramaVideo](https://github.com/wallinslax/PanoramaVideo)
 
 Project 2: [DDPG](https://github.com/wallinslax/CellFreeCLCA_RL)
 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenAI Gym](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI+Gym&color=0081A5&logo=OpenAI+Gym&logoColor=FFFFFF&label=)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### SRE
