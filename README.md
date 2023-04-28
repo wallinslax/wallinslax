@@ -31,14 +31,13 @@ My passsion is to solve various technology problems and make life easier :grin:
 <img src="https://komarev.com/ghpvc/?username=wallinslax&color=blueviolet&style=flat">
 
 
-## 🛠 Solving problem with
+## 🛠 Having Fun With
 ### Language
-![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Full Stack
-Project: [Virtual Stock Trading](https://github.com/wallinslax/Virtual-Stock-Trading)
+### Full Stack Project
+- [Virtual Stock Trading](https://github.com/wallinslax/Virtual-Stock-Trading)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,26 +49,29 @@ Project: [Virtual Stock Trading](https://github.com/wallinslax/Virtual-Stock-Tra
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
 
-### Game
-Project: [Multiplayer Online Battle Arena (MOBA) Game](https://github.com/DaydreamUSC/ElementalWar)
+### Game Project
+- [Multiplayer Online Battle Arena (MOBA) Game](https://github.com/DaydreamUSC/ElementalWar)
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
-### Machine Learning
-Project 1: [PanoramaVideo](https://github.com/wallinslax/PanoramaVideo)
+### Computer Vision Project
+- [PanoramaVideo](https://github.com/wallinslax/PanoramaVideo)
 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 
-Project 2: [DDPG](https://github.com/wallinslax/CellFreeCLCA_RL)
+### Reinforcement Learning Research
+- [DDPG](https://github.com/wallinslax/CellFreeCLCA_RL)
 
 ![OpenAI Gym](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI+Gym&color=0081A5&logo=OpenAI+Gym&logoColor=FFFFFF&label=)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-### SRE
+### SRE Skillset
 ![Nutanix](https://img.shields.io/static/v1?style=for-the-badge&message=Nutanix&color=024DA1&logo=Nutanix&logoColor=FFFFFF&label=)
 ![VMware](https://img.shields.io/static/v1?style=for-the-badge&message=VMware&color=607078&logo=VMware&logoColor=FFFFFF&label=)
 ![NetApp](https://img.shields.io/static/v1?style=for-the-badge&message=NetApp&color=0067C5&logo=NetApp&logoColor=FFFFFF&label=)
@@ -94,4 +96,5 @@ Project 2: [DDPG](https://github.com/wallinslax/CellFreeCLCA_RL)
 <a href="https://linkedin.com/in/sungfuhan"><img src="https://img.shields.io/badge/-Sung Fu Han-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://facebook.com/wallinslax"><img src="https://img.shields.io/badge/-Sung Fu Han-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
+## ⚡ Fun Fact
 [My story to be a coder](https://www.linkedin.com/posts/sungfuhan_i-would-like-to-share-the-story-why-i-want-activity-6843957426618810368-wV0Q?utm_source=share&utm_medium=member_desktop)
