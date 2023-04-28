@@ -26,7 +26,7 @@ I am a happy learner and builder.
 
 Crafting software solutions brings me some much fun.
 
-My passsion is to solve various technology problems and make life easier :grin:
+My passsion is to solve various technology problems and bring my broadband insight into it :grin:
 
 <img src="https://komarev.com/ghpvc/?username=wallinslax&color=blueviolet&style=flat">
 
