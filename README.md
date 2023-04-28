@@ -32,9 +32,6 @@ My passsion is to solve various technology problems and make life easier :grin:
 
 
 ## 🛠 Having Fun With
-### Language
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Full Stack Project
 - [Virtual Stock Trading](https://github.com/wallinslax/Virtual-Stock-Trading)
