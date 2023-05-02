@@ -70,7 +70,7 @@ I am currently a computer science master student at University of Southern Calif
 
 I am a happy learner and builder.
 
-Crafting software solutions brings me some much fun.
+Crafting software solutions enrich my sense of achievement.
 
 My passsion is to solve various technology problems and bring my broadband insight into it :grin:
 
