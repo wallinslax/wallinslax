@@ -7,7 +7,8 @@ This feature provides the capability to efficiently retrieve information from ex
 ## Demo
 load document: [state_of_the_union.txt](state_of_the_union.txt)
 
-https://github.com/wallinslax/langChatNextjs/assets/20626329/37dccadb-e21e-4f9b-8fa5-0d218df988be
+https://github.com/wallinslax/wallinslax/assets/20626329/c9997f51-0960-4049-9a7d-adbcf6b579bb
+
 
 
 
