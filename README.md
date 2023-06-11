@@ -68,11 +68,9 @@ Welcome to my page!
 
 I am currently a computer science master student at University of Southern California ✌️. 
 
-I am a happy learner and builder.
-
 Crafting software solutions enrich my sense of achievement.
 
-My passsion is to solve various technology problems and bring my broadband insight into it :grin:
+My passsion is to solve various technology problems with my broadband insight.
 
 <img src="https://komarev.com/ghpvc/?username=wallinslax&color=blueviolet&style=flat">
 
