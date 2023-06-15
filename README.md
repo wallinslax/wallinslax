@@ -62,9 +62,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋Hi there , I am Sung-Fu Han!
-
-Welcome to my page!
+# 👋Welcome to Sung-Fu Han's page
 
 I am currently a computer science master student at University of Southern California ✌️. 
 
@@ -75,7 +73,7 @@ My passsion is to solve various technology problems with my broadband insight.
 <img src="https://komarev.com/ghpvc/?username=wallinslax&color=blueviolet&style=flat">
 
 
-## 🛠 Having Fun With
+## 🛠 Projects
 | Domain | Project | Tech Stack |
 | --- | ----------- | -----------|
 | Full Stack | [Document-based Question Answering](https://github.com/wallinslax/wallinslax/tree/main/langChatNextjs) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=0081A5&logo=OpenAI&logoColor=FFFFFF&label=) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
