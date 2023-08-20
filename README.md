@@ -96,7 +96,7 @@ My passsion is to solve various technology problems with my broadband insight.
 [GitHub stats]: (https://github.com/anuraghazra/github-readme-stats)
 
 ## :point_right: Contact
-<a href="mailto:sfhan@usc.edu"><img src="https://img.shields.io/badge/-sfhan@usc.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:wallinslax@gmail.com"><img src="https://img.shields.io/badge/-wallinslax@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sungfuhan"><img src="https://img.shields.io/badge/-Sung Fu Han-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://facebook.com/wallinslax"><img src="https://img.shields.io/badge/-Sung Fu Han-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
