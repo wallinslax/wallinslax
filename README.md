@@ -102,4 +102,5 @@ My passsion is to solve various technology problems with my broadband insight.
 
 ## ⚡ Fun Fact
 [From SRE to SDE](https://www.linkedin.com/posts/sungfuhan_i-would-like-to-share-the-story-why-i-want-activity-6843957426618810368-wV0Q?utm_source=share&utm_medium=member_desktop)
+
 [How I make rental industry more efficeint](https://github.com/spaceFlow-US/)
