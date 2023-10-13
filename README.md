@@ -101,4 +101,5 @@ My passsion is to solve various technology problems with my broadband insight.
 <a href="https://facebook.com/wallinslax"><img src="https://img.shields.io/badge/-Sung Fu Han-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 ## ⚡ Fun Fact
-[My story to be a coder](https://www.linkedin.com/posts/sungfuhan_i-would-like-to-share-the-story-why-i-want-activity-6843957426618810368-wV0Q?utm_source=share&utm_medium=member_desktop)
+[From SRE to SDE](https://www.linkedin.com/posts/sungfuhan_i-would-like-to-share-the-story-why-i-want-activity-6843957426618810368-wV0Q?utm_source=share&utm_medium=member_desktop)
+[How I make rental industry more efficeint](https://github.com/spaceFlow-US/)
