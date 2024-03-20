@@ -3,10 +3,13 @@
 Try stock trading :point_right: [here](https://csci571hw8-2644230653.nw.r.appspot.com/)
 
 ## Web Frontend Demo
-https://user-images.githubusercontent.com/20626329/235177476-7244a397-0e83-4775-925f-8002596686ec.mp4
+https://youtu.be/L3tMjK2gU1E
+
+
 
 ## Android Frontend Demo
-https://user-images.githubusercontent.com/20626329/235207074-4f2e79de-2794-439e-88b2-7de30e5211de.mp4
+
+https://youtu.be/3EH6WRleUXQ
 
 ### Design
 <table>
