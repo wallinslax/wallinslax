@@ -107,15 +107,16 @@ My passsion is to solve various technology problems with my broadband insight.
 
 ## Who shape today's Sung-Fu Han 飲水思源
 
-| Date | Name                                                      | Did                          |
-| -----|----------                                                 |------------------------------|
-| 2008 | [Sin-Horng Chen](https://scholar.google.com.tw/citations?user=PpM_HrcAAAAJ)| gave opportunity to work in Speech Processing Lab |
-| 2013 | [Yu-Ted Su](https://ieeexplore.ieee.org/author/37276451400)| Master thesis advisor |
-| 2019 | [Su-Pao Chang](https://www.facebook.com/supao.chang)| Help my US life when I was exchage scholar |
-| 2021 | [Yu-Ted Su](https://ieeexplore.ieee.org/author/37276451400)| Recommendation Letter to USC |
-| 2021 | [Sin-Horng Chen](https://scholar.google.com.tw/citations?user=PpM_HrcAAAAJ)| Recommendation Letter to USC |
-| 2021 | [Ronald Y. Chang](https://ieeexplore.ieee.org/author/37894326600) | Recommendation Letter to USC |
-| 2022 | [Nagbhushan Somawar](https://www.linkedin.com/in/nagbhushan-somawar-a0255a11/) | SDM@Amazon |
-| 2023 | [Gary Gao](https://www.facebook.com/garygao) | $1 rent his garage for 5 year as HQ for spaceFlow |
+| Date |Relation   | Name                                                      | Did                          |
+| -----|---------- |----------                                                 |------------------------------|
+| 2008 |Supervisor | [Sin-Horng Chen](https://scholar.google.com.tw/citations?user=PpM_HrcAAAAJ)| gave opportunity to work in Speech Processing Lab |
+| 2013 |Advisor    | [Yu-Ted Su](https://ieeexplore.ieee.org/author/37276451400)| Master thesis advisor |
+| 2013 |Supervisor@CHT | [Dannis Lee](https://www.facebook.com/chenghsun.lee.5)| stategy before solve problem |
+| 2019 |My friend's Aunt |[Su-Pao Chang](https://www.facebook.com/supao.chang)| Help my US life when I was exchage scholar |
+| 2021 |Referral | [Yu-Ted Su](https://ieeexplore.ieee.org/author/37276451400)| Recommendation Letter to USC |
+| 2021 |Referral | [Sin-Horng Chen](https://scholar.google.com.tw/citations?user=PpM_HrcAAAAJ)| Recommendation Letter to USC |
+| 2021 |Referral | [Ronald Y. Chang](https://ieeexplore.ieee.org/author/37894326600) | Recommendation Letter to USC |
+| 2022 |SDM@Amazon | [Nagbhushan Somawar](https://www.linkedin.com/in/nagbhushan-somawar-a0255a11/) | 1 revision for each CR |
+| 2023 |Friend   | [Gary Gao](https://www.facebook.com/garygao) | $1 rent his garage for 5 year as HQ for spaceFlow |
 
 
