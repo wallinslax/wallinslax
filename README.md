@@ -110,7 +110,7 @@ My passsion is to solve various technology problems with my broadband insight.
 | Date |Relation   | Name                                                      | Did                          |
 | -----|---------- |----------                                                 |------------------------------|
 | 2008 |Supervisor | [Sin-Horng Chen](https://scholar.google.com.tw/citations?user=PpM_HrcAAAAJ)| gave opportunity to work in Speech Processing Lab |
-| 2013 |Advisor    | [Yu-Ted Su](https://ieeexplore.ieee.org/author/37276451400)| Master thesis advisor |
+| 2013 |Advisor    | [Yu-Ted Su](https://ieeexplore.ieee.org/author/37276451400)| Advice my first publication |
 | 2013 |Supervisor@CHT | [Dannis Lee](https://www.facebook.com/chenghsun.lee.5)| have strategy before solving problem |
 | 2019 |My friend's Aunt |[Su-Pao Chang](https://www.facebook.com/supao.chang)| Help my life when I was new to US |
 | 2021 |Referral | [Yu-Ted Su](https://ieeexplore.ieee.org/author/37276451400)| Recommendation Letter to USC |
