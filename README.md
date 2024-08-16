@@ -118,5 +118,6 @@ My passsion is to solve various technology problems with my broadband insight.
 | 2021 |Referral | [Ronald Y. Chang](https://ieeexplore.ieee.org/author/37894326600) | Recommendation Letter to USC |
 | 2022 |SDM@Amazon | [Nagbhushan Somawar](https://www.linkedin.com/in/nagbhushan-somawar-a0255a11/) | 1 revision for each CR |
 | 2023 |Friend   | [Gary Gao](https://www.facebook.com/garygao) | $1 rent his garage for 5 year as HQ for spaceFlow |
+| 2024 |Angel    | [Gary Gitelson](https://www.linkedin.com/in/garygitelson/) | Teach me how to use investor's fund |
 
 
