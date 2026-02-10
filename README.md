@@ -64,9 +64,7 @@ Here are some ideas to get you started:
 
 # 👋Welcome to Sung-Fu Han's Page
 
-I am a buider from University of Southern California ✌️. 
-
-I share some fun projects in my github.
+Sung-Fu is a passion builder from University of Southern California ✌️. 
 
 <img src="https://komarev.com/ghpvc/?username=wallinslax&color=blueviolet&style=flat">
 
