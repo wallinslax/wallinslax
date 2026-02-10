@@ -82,19 +82,9 @@ Sung-Fu is a passion builder from University of Southern California ✌️.
 |SRE| Daily Operation |![Nutanix](https://img.shields.io/static/v1?style=for-the-badge&message=Nutanix&color=024DA1&logo=Nutanix&logoColor=FFFFFF&label=) ![VMware](https://img.shields.io/static/v1?style=for-the-badge&message=VMware&color=607078&logo=VMware&logoColor=FFFFFF&label=) ![NetApp](https://img.shields.io/static/v1?style=for-the-badge&message=NetApp&color=0067C5&logo=NetApp&logoColor=FFFFFF&label=) ![CentOS](https://img.shields.io/static/v1?style=for-the-badge&message=CentOS&color=262577&logo=CentOS&logoColor=FFFFFF&label=) ![Ansible](https://img.shields.io/static/v1?style=for-the-badge&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF&label=) ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=) ![OpenStack](https://img.shields.io/static/v1?style=for-the-badge&message=OpenStack&color=ED1944&logo=OpenStack&logoColor=FFFFFF&label=)|
 
 
-## ⚙️ GitHub Insight
-<a href="https://github.com/ChiaHaoChangTw?tab=repositories">
-  <img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallinslax&theme=swift">
-  &nbsp;&nbsp;&nbsp;
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=wallinslax&theme=swift">
-</a>
-
-[GitHub stats]: (https://github.com/anuraghazra/github-readme-stats)
-
 ## :point_right: Contact
 <a href="mailto:wallinslax@gmail.com"><img src="https://img.shields.io/badge/-wallinslax@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sungfuhan"><img src="https://img.shields.io/badge/-Sung Fu Han-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://facebook.com/wallinslax"><img src="https://img.shields.io/badge/-Sung Fu Han-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 ## ⚡ Fun Fact
 [From SRE to SDE](https://www.linkedin.com/posts/sungfuhan_i-would-like-to-share-the-story-why-i-want-activity-6843957426618810368-wV0Q?utm_source=share&utm_medium=member_desktop)
