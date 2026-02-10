@@ -1,67 +1,4 @@
 
-<!--
-**wallinslax/wallinslax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-&nbsp;
-
-### Full Stack Project
-- [Virtual Stock Trading](https://github.com/wallinslax/Virtual-Stock-Trading)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
-![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
-
-### Game Project
-- [Multiplayer Online Battle Arena (MOBA) Game](https://github.com/DaydreamUSC/ElementalWar)
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-
-### Computer Vision Project
-- [PanoramaVideo](https://github.com/wallinslax/PanoramaVideo)
-
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
-
-### Reinforcement Learning Research
-- [DDPG](https://github.com/wallinslax/CellFreeCLCA_RL)
-
-![OpenAI Gym](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI+Gym&color=0081A5&logo=OpenAI+Gym&logoColor=FFFFFF&label=)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-### SRE Skillset
-![Nutanix](https://img.shields.io/static/v1?style=for-the-badge&message=Nutanix&color=024DA1&logo=Nutanix&logoColor=FFFFFF&label=)
-![VMware](https://img.shields.io/static/v1?style=for-the-badge&message=VMware&color=607078&logo=VMware&logoColor=FFFFFF&label=)
-![NetApp](https://img.shields.io/static/v1?style=for-the-badge&message=NetApp&color=0067C5&logo=NetApp&logoColor=FFFFFF&label=)
-![CentOS](https://img.shields.io/static/v1?style=for-the-badge&message=CentOS&color=262577&logo=CentOS&logoColor=FFFFFF&label=)
-![Ansible](https://img.shields.io/static/v1?style=for-the-badge&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF&label=)
-![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
-![OpenStack](https://img.shields.io/static/v1?style=for-the-badge&message=OpenStack&color=ED1944&logo=OpenStack&logoColor=FFFFFF&label=)
-
-[icons]: (https://github.com/alexandresanlim/Badges4-README.md-Profile#readme)
--->
-
-
 # 👋Welcome to Sung-Fu Han's Page
 
 Sung-Fu is a passion builder from University of Southern California ✌️. 
@@ -90,7 +27,7 @@ Sung-Fu is a passion builder from University of Southern California ✌️.
 [SRE to SDE](https://www.linkedin.com/posts/sungfuhan_i-would-like-to-share-the-story-why-i-want-activity-6843957426618810368-wV0Q?utm_source=share&utm_medium=member_desktop)
 
 [Ｍinimize Rental Vacancy Rate](https://github.com/spaceFlow-US/)
-
+<!--
 ## 飲水思源
 
 | Date |Relation   | Name                                                      | Did                          |
@@ -105,5 +42,5 @@ Sung-Fu is a passion builder from University of Southern California ✌️.
 | 2022 |SDM@Amazon | [Nagbhushan Somawar](https://www.linkedin.com/in/nagbhushan-somawar-a0255a11/) | 1 revision for each CR |
 | 2023 |Friend   | [Gary Gao](https://www.facebook.com/garygao) | $1 rent his garage for 5 year as HQ for spaceFlow |
 | 2024 |Angel    | [Gary Gitelson](https://www.linkedin.com/in/garygitelson/) | Teach me how to use investor's fund |
-
+-->
 
