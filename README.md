@@ -87,11 +87,11 @@ Sung-Fu is a passion builder from University of Southern California ✌️.
 <a href="https://linkedin.com/in/sungfuhan"><img src="https://img.shields.io/badge/-Sung Fu Han-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 ## ⚡ Fun Fact
-[From SRE to SDE](https://www.linkedin.com/posts/sungfuhan_i-would-like-to-share-the-story-why-i-want-activity-6843957426618810368-wV0Q?utm_source=share&utm_medium=member_desktop)
+[SRE to SDE](https://www.linkedin.com/posts/sungfuhan_i-would-like-to-share-the-story-why-i-want-activity-6843957426618810368-wV0Q?utm_source=share&utm_medium=member_desktop)
 
-[How I make rental industry more efficeint](https://github.com/spaceFlow-US/)
+[Ｍinimize Rental Vacancy Rate](https://github.com/spaceFlow-US/)
 
-## Who shape today's Sung-Fu Han 飲水思源
+## 飲水思源
 
 | Date |Relation   | Name                                                      | Did                          |
 | -----|---------- |----------                                                 |------------------------------|
