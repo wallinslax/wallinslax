@@ -64,11 +64,9 @@ Here are some ideas to get you started:
 
 # 👋Welcome to Sung-Fu Han's Page
 
-I am currently a computer science master student at University of Southern California ✌️. 
+I am a buider from University of Southern California ✌️. 
 
-Crafting software solutions enrich my sense of achievement.
-
-My passsion is to solve various technology problems with my broadband insight.
+I share some fun projects in my github.
 
 <img src="https://komarev.com/ghpvc/?username=wallinslax&color=blueviolet&style=flat">
 
