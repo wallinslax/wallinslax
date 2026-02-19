@@ -1,10 +1,10 @@
 
 # 👋Welcome to Sung-Fu Han's Page
 
-Sung-Fu is a passion builder from University of Southern California ✌️. 
-
+A passion builder from USC ✌️. 
+<!--
 [👉 Check if I am a good fit to your JD](https://opal.google/app/1rD5FdYdVU6WWAR-0kLtrr8A4G4EIaQH0)
-
+-->
 <img src="https://komarev.com/ghpvc/?username=wallinslax&color=blueviolet&style=flat">
 
 
