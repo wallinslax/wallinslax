@@ -2,6 +2,9 @@
 # 👋Welcome to Sung-Fu Han's Page
 
 A passion builder from USC ✌️. 
+
+https://github.com/user-attachments/assets/f402b304-1185-4350-9bad-c72ca2330e28
+
 <!--
 [👉 Check if I am a good fit to your JD](https://opal.google/app/1rD5FdYdVU6WWAR-0kLtrr8A4G4EIaQH0)
 -->
@@ -30,7 +33,12 @@ A passion builder from USC ✌️.
 
 [Ｍinimize Rental Vacancy Rate](https://github.com/spaceFlow-US/)
 
+<!--
 https://github.com/user-attachments/assets/8506d858-8819-48a8-8588-76e093b7637f
+-->
+
+
+
 
 
 <!--
