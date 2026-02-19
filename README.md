@@ -1,7 +1,7 @@
 
-# 👋Welcome to Sung-Fu Han's Page
+# Sung-Fu Han
 
-A passion builder from USC ✌️. 
+A visionary builder from USC ✌️. 
 
 https://github.com/user-attachments/assets/f402b304-1185-4350-9bad-c72ca2330e28
 
