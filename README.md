@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/f402b304-1185-4350-9bad-c72ca2330e28
 <!--
 [👉 Check if I am a good fit to your JD](https://opal.google/app/1rD5FdYdVU6WWAR-0kLtrr8A4G4EIaQH0)
 -->
-<img src="https://komarev.com/ghpvc/?username=wallinslax&color=blueviolet&style=flat">
+<!-- <img src="https://komarev.com/ghpvc/?username=wallinslax&color=blueviolet&style=flat"> -->
 
 
 ## 🛠 Projects
