@@ -2,6 +2,8 @@
 # Sung-Fu Han
 
 A visionary builder from USC ✌️. 
+
+📝 Blog and articles: **[wallinslax.github.io](https://wallinslax.github.io)**
 <!--
 https://github.com/user-attachments/assets/f402b304-1185-4350-9bad-c72ca2330e28
 -->
@@ -27,6 +29,7 @@ https://github.com/user-attachments/assets/f402b304-1185-4350-9bad-c72ca2330e28
 ## :point_right: Contact
 <a href="mailto:wallinslax@gmail.com"><img src="https://img.shields.io/badge/-wallinslax@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sungfuhan"><img src="https://img.shields.io/badge/-Sung Fu Han-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://wallinslax.github.io"><img src="https://img.shields.io/badge/-wallinslax.github.io-222222?style=flat&logo=astro&logoColor=white"/></a>
 
 ## ⚡ Fun Fact
 [SRE to SDE](https://www.linkedin.com/posts/sungfuhan_i-would-like-to-share-the-story-why-i-want-activity-6843957426618810368-wV0Q?utm_source=share&utm_medium=member_desktop)
